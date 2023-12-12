@@ -17,4 +17,4 @@ Randomly Event Hub "Opportunity Deck" with built in functionality for 4 types of
 
 
 To Do:
-Would consider adding images, music, beautification of HTML, conversion to Calico Ink Fork, or integration into GoDot project.
+Considering adding images, music, beautification of HTML, conversion to Calico Ink Fork, or integration into GoDot project.

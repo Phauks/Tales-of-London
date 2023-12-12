@@ -9,4 +9,4 @@ assignees: ''
 
 Event Name: 
 Rarity (Rare, Unusual, Standard, Frequent): 
-Event Content (preferably written in ink):
+Event Description (preferably written in ink):

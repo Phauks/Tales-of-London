@@ -1,7 +1,7 @@
 ---
 name: 'Addition: Exceptional Tale'
 about: So you want to add a Exceptional Tale to Tales of London?
-title: 'Addition: Exceptional Tale - '
+title: 'Exceptional Tale: '
 labels: ''
 assignees: Phauks
 
